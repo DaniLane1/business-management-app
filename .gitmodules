@@ -1,6 +1,3 @@
-[submodule "business-manager"]
-	path = business-manager
-	url = https://github.com/DaniLane1/business-management-app.git
 [submodule "node_modules/business-manager-backend/business-manager"]
 	path = node_modules/business-manager-backend/business-manager
 	url = https://github.com/DaniLane1/business-management-app.git
